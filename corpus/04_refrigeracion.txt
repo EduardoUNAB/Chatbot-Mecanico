@@ -1,0 +1,68 @@
+# SISTEMA DE REFRIGERACIÓN Y SOBRECALENTAMIENTO
+
+## Función del sistema de refrigeración
+
+El motor de combustión interna alcanza temperaturas que superan los 800 °C dentro de las cámaras de combustión. Si todo ese calor se acumulara, el motor se fundiría en minutos. El sistema de refrigeración mantiene la temperatura de operación del motor en un rango óptimo, generalmente entre 85 °C y 105 °C, mediante un circuito cerrado de líquido refrigerante que absorbe el calor del bloque del motor y lo disipa a través del radiador.
+
+Componentes principales del sistema de refrigeración:
+
+- Bomba de agua: hace circular el refrigerante por el circuito.
+- Radiador: panel donde el refrigerante se enfría por el flujo de aire al circular el vehículo.
+- Termostato: válvula automática que controla cuándo el refrigerante circula por el radiador, manteniendo la temperatura óptima.
+- Ventilador del radiador: activa el flujo de aire forzado cuando el vehículo está detenido o circula a baja velocidad.
+- Mangueras: conducen el refrigerante entre los componentes.
+- Tapa del radiador o estanque de expansión: mantiene el sistema presurizado, lo que eleva el punto de ebullición del refrigerante.
+- Estanque de expansión: aloja el exceso de refrigerante cuando este se dilata por el calor.
+
+## Función del refrigerante o anticongelante
+
+El refrigerante es una mezcla de agua desmineralizada con anticongelante (etilenglicol o propilenglicol) en proporciones que típicamente van de 40/60 a 60/40 según el clima. Sus funciones son:
+
+1. Absorber y transportar el calor del motor hacia el radiador, donde se disipa al ambiente.
+2. Prevenir la congelación en climas fríos. El agua sola se congela a 0 °C; una mezcla 50/50 con anticongelante baja el punto de congelación hasta cerca de -37 °C.
+3. Elevar el punto de ebullición. El agua hierve a 100 °C; la mezcla con anticongelante presurizada hierve cerca de 130 °C, evitando vaporización dentro del motor.
+4. Inhibir la corrosión interna. Los aditivos del refrigerante protegen las superficies metálicas del bloque, la culata y el radiador contra el óxido.
+5. Lubricar la bomba de agua y los sellos del sistema.
+
+Importante: NUNCA usar agua sola en el sistema de refrigeración salvo en una emergencia muy corta. El agua sola provoca corrosión rápida, no protege contra congelación y hierve a temperaturas más bajas.
+
+## Síntomas de sobrecalentamiento
+
+El sobrecalentamiento del motor es una de las fallas más graves que puede ocurrir, ya que en pocos minutos puede destruir la junta de culata, alabear la culata o incluso fundir partes internas. Los síntomas son:
+
+- Aguja del termómetro en zona roja del tablero (encima del 3/4 de la escala).
+- Luz de temperatura roja encendida.
+- Vapor o humo blanco saliendo del capó.
+- Olor dulzón característico (fugas de refrigerante).
+- Pérdida de potencia, motor que "tose" o se apaga solo.
+- Refrigerante hirviendo audible en el estanque de expansión tras detener el vehículo.
+
+## Qué hacer ante signos de sobrecalentamiento
+
+Si el motor muestra signos de sobrecalentamiento, seguir este procedimiento sin demora:
+
+1. Apagar inmediatamente el aire acondicionado, que añade carga al motor.
+2. Encender la calefacción al máximo. Esto puede sonar contraintuitivo, pero la calefacción usa el calor del motor para climatizar el habitáculo, ayudando a disipar parte del exceso.
+3. Detener el vehículo en un lugar seguro tan pronto como sea posible.
+4. Apagar el motor.
+5. NO abrir la tapa del radiador ni del estanque de expansión cuando el motor está caliente. El sistema está presurizado y el refrigerante hirviendo puede salir disparado y causar quemaduras graves. Esperar al menos 30 minutos.
+6. Una vez frío el motor, verificar visualmente el nivel de refrigerante en el estanque de expansión.
+7. Si el nivel está bajo, agregar refrigerante o, en emergencia, agua limpia.
+8. Inspeccionar visualmente fugas evidentes.
+9. Si el problema persiste o se desconoce su causa, no continuar conduciendo. Solicitar grúa.
+
+Causas comunes del sobrecalentamiento:
+
+- Bajo nivel de refrigerante por fuga.
+- Termostato pegado cerrado.
+- Bomba de agua dañada.
+- Ventilador del radiador no funciona.
+- Radiador obstruido.
+- Junta de culata reventada (gases de combustión entran al circuito).
+
+## Mantenimiento preventivo del sistema
+
+- Revisar el nivel del estanque de expansión mensualmente, con el motor frío.
+- Reemplazar el refrigerante cada 2 a 5 años según especificación del fabricante.
+- Inspeccionar mangueras: deben estar firmes, sin grietas ni protuberancias.
+- Reemplazar la tapa del radiador cada 4 a 5 años, ya que la presión que mantiene se degrada con el tiempo.

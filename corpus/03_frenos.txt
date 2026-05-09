@@ -1,0 +1,55 @@
+# SISTEMA DE FRENOS
+
+## Componentes del sistema de frenos
+
+El sistema de frenos hidráulico de un automóvil moderno está compuesto por:
+
+- Pedal de freno: transfiere la fuerza del conductor al cilindro maestro.
+- Cilindro maestro (bomba de freno): convierte la fuerza mecánica del pedal en presión hidráulica del líquido de frenos.
+- Servofreno o booster: amplifica la fuerza ejercida por el conductor mediante el vacío del motor.
+- Líquido de frenos: transmite la presión hidráulica desde el cilindro maestro hasta cada rueda. Tipos comunes: DOT 3, DOT 4 y DOT 5.1.
+- Cañerías y mangueras: conducen el líquido desde el cilindro maestro hasta los frenos de cada rueda.
+- Pinzas o calipers (en frenos de disco): contienen los pistones que presionan las pastillas contra el disco.
+- Pastillas de freno: superficie de fricción que se desgasta con el uso normal.
+- Discos de freno: pieza metálica que gira con la rueda y contra la cual se presionan las pastillas.
+- Tambores y zapatas (en frenos de tambor, presentes generalmente en las ruedas traseras de vehículos económicos).
+
+## Síntomas de un sistema de frenos desgastado
+
+Los principales síntomas que indican un sistema de frenos en mal estado son:
+
+1. Chillido agudo y metálico al frenar: las pastillas modernas incorporan un testigo metálico (sensor de desgaste mecánico) que produce este sonido cuando la pastilla está cerca del límite. Es una alerta auditiva diseñada para anticipar el reemplazo.
+
+2. Pulsaciones o vibración en el pedal al frenar: típicamente indican discos de freno alabeados o deformados por sobrecalentamiento. La superficie del disco no es perfectamente plana y la pastilla la "rebota" en cada giro.
+
+3. Mayor distancia de frenado: si el vehículo necesita más distancia para detenerse que antes, hay desgaste avanzado de pastillas, contaminación del disco con aceite o líquido de frenos degradado.
+
+4. Pedal de freno blando, esponjoso o que llega al fondo: indica presencia de aire en el circuito hidráulico, fugas en cañerías o cilindro maestro defectuoso. Es una falla GRAVE que requiere atención inmediata.
+
+5. Tirón hacia un lado al frenar: indica frenos descompensados, normalmente por una pinza pegada o pastillas desgastadas asimétricamente.
+
+6. Olor a quemado tras frenadas prolongadas: las pastillas o discos están sobrecalentados, lo cual reduce su capacidad de fricción (fenómeno conocido como fade).
+
+7. Luz roja del freno encendida en el tablero: puede indicar nivel bajo de líquido de frenos, freno de mano accionado, o falla en el sistema ABS.
+
+8. Surcos o ranuras visibles en los discos: indican desgaste excesivo o pastillas con material defectuoso.
+
+## Vida útil estimada
+
+- Pastillas de freno delanteras: entre 30.000 y 70.000 kilómetros, dependiendo del estilo de conducción y el tipo de pastilla.
+- Pastillas de freno traseras: entre 50.000 y 100.000 kilómetros (normalmente más largas).
+- Discos de freno: entre 60.000 y 120.000 kilómetros. Pueden rectificarse una vez si el espesor lo permite.
+- Líquido de frenos: debe reemplazarse completamente cada 2 años o 40.000 kilómetros, ya que es higroscópico (absorbe humedad) y pierde efectividad.
+
+## Líquido de frenos
+
+El líquido de frenos absorbe humedad del ambiente con el tiempo. Esta humedad reduce el punto de ebullición del líquido y, en frenadas intensas, puede generar burbujas de vapor en el circuito (vapor lock), provocando pérdida total de frenos.
+
+Verificar el nivel mensualmente. Si baja sin razón aparente, hay una fuga o las pastillas están al límite. Nunca usar líquidos distintos al especificado por el fabricante (DOT 3, DOT 4 o DOT 5.1, según el manual).
+
+## Recomendaciones de uso
+
+- Evitar frenar bruscamente cuando no sea necesario: prolonga la vida del sistema y reduce el consumo de combustible.
+- En descensos prolongados, usar el freno motor (cambiar a una marcha más baja) en lugar de mantener el pie sobre el pedal.
+- Tras pasar por agua profunda, frenar suavemente unos metros para secar las pastillas y discos.
+- No estacionar usando solo el freno de mano si el vehículo estará detenido por períodos largos en climas muy fríos: las pastillas pueden congelarse contra el disco.

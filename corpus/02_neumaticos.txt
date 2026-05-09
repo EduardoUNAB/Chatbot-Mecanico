@@ -1,0 +1,64 @@
+# NEUMÁTICOS: PRESIÓN, ALINEACIÓN Y BALANCEO
+
+## Importancia de la presión correcta de los neumáticos
+
+La presión correcta de los neumáticos es fundamental para la seguridad, la economía de combustible y la durabilidad del vehículo. Una presión incorrecta afecta la tracción, la distancia de frenado, el manejo y el desgaste del neumático.
+
+Consecuencias de una presión incorrecta:
+
+- Presión baja: aumenta el consumo de combustible, provoca desgaste excesivo en los hombros del neumático, eleva la temperatura del caucho y puede causar reventones a alta velocidad.
+- Presión alta: reduce la huella de contacto con el pavimento, aumenta el desgaste en el centro de la banda de rodadura, disminuye la adherencia y vuelve la conducción más dura.
+
+## Cómo verificar correctamente la presión de los neumáticos
+
+El procedimiento correcto es el siguiente:
+
+1. Realizar la medición con los neumáticos fríos. Esto significa que el vehículo no debe haber rodado más de 2 kilómetros antes de la medición, o haber permanecido detenido al menos 3 horas. La temperatura altera la presión.
+2. Consultar la presión recomendada por el fabricante del vehículo. Esta información se encuentra en una etiqueta ubicada generalmente en el marco de la puerta del conductor, en la tapa del depósito de combustible o en el manual del propietario.
+3. NO usar la presión máxima impresa en el costado del neumático (esa cifra es el límite estructural del neumático, no la presión recomendada para el vehículo).
+4. Retirar la tapa de la válvula del neumático.
+5. Conectar firmemente el manómetro a la válvula. Anotar la lectura.
+6. Si la presión está baja, agregar aire hasta el valor correcto. Si está alta, presionar levemente el pin central de la válvula para liberar aire.
+7. Volver a medir tras inflar o desinflar.
+8. Repetir con los cuatro neumáticos. No olvidar la rueda de repuesto.
+9. Reinstalar las tapas de las válvulas.
+
+Frecuencia recomendada de verificación: al menos una vez al mes y siempre antes de viajes largos.
+
+Las presiones típicas para automóviles de pasajeros varían entre 30 y 36 PSI (libras por pulgada cuadrada), pero el valor exacto debe tomarse siempre de la etiqueta del fabricante.
+
+## Diferencia entre alineación y balanceo
+
+Aunque a menudo se mencionan juntos, la alineación y el balanceo son procedimientos distintos que abordan problemas diferentes.
+
+### Alineación
+
+La alineación, también llamada alineación de dirección o convergencia, consiste en ajustar los ángulos de las ruedas (camber, caster y toe) según las especificaciones del fabricante. El objetivo es asegurar que las cuatro ruedas estén perpendiculares al suelo y paralelas entre sí, de modo que el vehículo ruede en línea recta sin esfuerzo y el desgaste de los neumáticos sea uniforme.
+
+Síntomas de mala alineación:
+
+- El vehículo se desvía hacia un lado al soltar el volante en una superficie plana.
+- Volante torcido al circular en línea recta.
+- Desgaste irregular en uno de los bordes del neumático.
+- Vibración en el volante a baja velocidad.
+
+Cuándo realizar alineación: tras impactos fuertes con baches o cordones, al cambiar componentes de la suspensión, al notar desgaste irregular o cada 15.000 a 20.000 kilómetros como mantenimiento preventivo.
+
+### Balanceo
+
+El balanceo es un procedimiento que distribuye el peso uniformemente alrededor del conjunto rueda-neumático para que gire sin generar vibraciones a alta velocidad. Para lograrlo, el técnico añade pequeños contrapesos de plomo o acero en los bordes de la llanta hasta que el conjunto esté equilibrado dinámicamente.
+
+Síntomas de mal balanceo:
+
+- Vibración en el volante o en el asiento a velocidades de 80–120 km/h.
+- Desgaste tipo "copas" en la banda de rodadura.
+
+Cuándo realizar balanceo: al instalar neumáticos nuevos, al rotar neumáticos, al notar vibraciones a alta velocidad o cada 10.000 a 15.000 kilómetros.
+
+Resumen: la alineación corrige el ángulo de las ruedas; el balanceo distribuye el peso de cada rueda. Son complementarios pero diferentes.
+
+## Profundidad de banda de rodadura
+
+La profundidad mínima legal de la banda de rodadura en Chile es de 1,6 mm. Sin embargo, por seguridad, se recomienda reemplazar los neumáticos cuando la profundidad alcanza los 3 mm, ya que por debajo de ese umbral la capacidad de evacuación de agua disminuye drásticamente y aumenta el riesgo de aquaplaning.
+
+Para verificar la profundidad sin un medidor, los neumáticos modernos incorporan testigos de desgaste (TWI - Tread Wear Indicator) ubicados en los canales de la banda. Cuando la goma se nivela con el testigo, el neumático ha llegado a su límite legal.

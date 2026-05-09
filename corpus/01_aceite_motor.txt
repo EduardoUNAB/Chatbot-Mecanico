@@ -1,0 +1,58 @@
+# MANTENIMIENTO DEL ACEITE DE MOTOR
+
+## Función del aceite de motor
+
+El aceite de motor lubrica las partes móviles del motor de combustión interna, reduciendo la fricción entre componentes metálicos y disipando el calor generado durante la combustión. Además, el aceite ayuda a sellar las cámaras de combustión, neutraliza ácidos producidos durante el funcionamiento y mantiene en suspensión las partículas contaminantes hasta que estas son retenidas por el filtro de aceite.
+
+## Tipos de aceite
+
+Existen tres tipos principales de aceite de motor: mineral, semisintético y sintético.
+
+- Aceite mineral: derivado directamente del petróleo crudo. Es el más económico, pero requiere cambios más frecuentes y ofrece menor protección bajo condiciones extremas.
+- Aceite semisintético: combinación de aceite mineral y aceite sintético. Ofrece un equilibrio entre costo y rendimiento. Usualmente requiere cambio cada 7.500 a 10.000 kilómetros.
+- Aceite sintético: producido mediante procesos químicos controlados. Ofrece la mayor protección térmica, mejor estabilidad a bajas temperaturas y vida útil más larga. El aceite sintético típicamente se cambia entre los 10.000 y 15.000 kilómetros, dependiendo del fabricante del vehículo y de las condiciones de uso. Algunos fabricantes europeos modernos extienden el intervalo hasta 20.000 kilómetros bajo condiciones de uso normal.
+
+## Intervalos de cambio recomendados
+
+El intervalo de cambio del aceite depende del tipo de aceite, las condiciones de uso del vehículo y las recomendaciones del fabricante. Como guía general:
+
+- Aceite mineral: cambiar cada 5.000 kilómetros o cada 6 meses, lo que ocurra primero.
+- Aceite semisintético: cambiar cada 7.500 a 10.000 kilómetros o cada 9 meses.
+- Aceite sintético: cambiar cada 10.000 a 15.000 kilómetros o cada 12 meses.
+
+Bajo condiciones severas (tráfico urbano denso, polvo, viajes cortos frecuentes, remolque de cargas, climas extremos), se recomienda reducir estos intervalos en aproximadamente un 30%.
+
+## Luz de presión de aceite
+
+El símbolo de la aceitera roja en el tablero indica una caída crítica en la presión del aceite del motor. Esta luz NO indica el nivel de aceite directamente, sino la presión con la que el aceite circula por el motor. Cuando se enciende durante la conducción, debe interpretarse como una emergencia mecánica.
+
+Las posibles causas son:
+
+- Nivel de aceite por debajo del mínimo en el cárter.
+- Bomba de aceite defectuosa o desgastada.
+- Filtro de aceite obstruido.
+- Aceite excesivamente diluido o contaminado.
+- Sensor de presión defectuoso (causa menos crítica, pero requiere diagnóstico).
+
+Acción recomendada al encenderse la luz de presión de aceite: detener el vehículo en un lugar seguro lo antes posible, apagar el motor y verificar el nivel de aceite con la varilla. Si el nivel está bajo, completar hasta el nivel correcto. Si el nivel es correcto y la luz persiste, NO se debe continuar conduciendo, ya que el motor puede sufrir daños severos en pocos minutos. Solicitar grúa.
+
+## Verificación del nivel de aceite
+
+Para revisar el nivel de aceite correctamente:
+
+1. Estacionar el vehículo en una superficie plana y nivelada.
+2. Apagar el motor y esperar al menos 5 minutos para que el aceite drene al cárter.
+3. Localizar la varilla medidora de aceite (normalmente con mango amarillo o naranja).
+4. Retirar la varilla, limpiarla con un paño, reinsertarla completamente y volverla a sacar.
+5. Observar el nivel: debe estar entre las marcas MIN y MAX.
+
+Si el nivel está bajo, agregar el aceite especificado por el fabricante en cantidades pequeñas (250 ml a la vez) y volver a verificar. Nunca sobrepasar la marca MAX, ya que el exceso de aceite puede dañar los sellos y catalizadores.
+
+## Humo de escape como indicador del estado del motor
+
+El color del humo del escape entrega información importante sobre la condición del motor:
+
+- Humo blanco ligero: condensación normal en arranques fríos. Desaparece tras unos minutos.
+- Humo blanco denso y persistente: posible entrada de líquido refrigerante a la cámara de combustión. Sugiere falla en la junta de culata o en la culata misma.
+- Humo azul: indica quema de aceite dentro de la cámara de combustión. Las causas más comunes son anillos del pistón desgastados, sellos de válvulas dañados o desgaste cilíndrico. Es un síntoma de desgaste interno significativo del motor que debe diagnosticarse pronto.
+- Humo negro: combustión incompleta por mezcla rica en combustible. Posible fallo en inyectores, sensor MAF, sensor de oxígeno o filtro de aire muy sucio.

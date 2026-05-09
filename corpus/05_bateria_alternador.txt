@@ -1,0 +1,84 @@
+# BATERÍA Y SISTEMA DE CARGA
+
+## Función de la batería
+
+La batería del automóvil es un acumulador electroquímico que almacena energía eléctrica y la entrega cuando el vehículo lo requiere. Sus funciones principales son:
+
+1. Suministrar la energía necesaria para arrancar el motor mediante el motor de partida (motor de arranque).
+2. Alimentar todos los sistemas eléctricos cuando el motor está apagado: luces, radio, alarma, computadora del vehículo, etc.
+3. Estabilizar el voltaje del sistema eléctrico cuando el alternador entrega más o menos corriente que la demandada por los consumos.
+
+La batería automotriz convencional es de tipo plomo-ácido y opera nominalmente a 12 voltios. Una batería sana mide entre 12,4 V y 12,7 V con el motor apagado. Cuando el motor está encendido y el alternador funcionando correctamente, el voltaje en bornes debe estar entre 13,8 V y 14,7 V.
+
+## Vida útil promedio de una batería
+
+La vida útil promedio de una batería de automóvil convencional (plomo-ácido) es de 3 a 5 años, dependiendo de varios factores:
+
+- Clima: en climas extremos (muy calurosos o muy fríos), la vida útil puede acortarse a 2-3 años.
+- Calidad de la batería y marca.
+- Frecuencia de uso del vehículo: ciclos de descarga profunda repetidos acortan la vida.
+- Estado del sistema de carga del vehículo (alternador, regulador).
+- Calidad del mantenimiento: limpieza de bornes, verificación periódica.
+
+Las baterías AGM (Absorbent Glass Mat) y EFB (Enhanced Flooded Battery), usadas en vehículos con sistema start-stop, tienen una vida útil estimada de 4 a 6 años.
+
+Pasados los 4 años, se recomienda inspeccionar la batería con un probador de carga al menos una vez al año. Una batería puede fallar repentinamente sin previo aviso en climas fríos.
+
+## Síntomas de batería débil o al final de su vida útil
+
+- Arranque lento o "perezoso" del motor de partida.
+- Luces interiores y faros que se atenúan al encender el vehículo.
+- Click rápido al girar la llave sin que arranque el motor.
+- Necesidad de hacer "puente" con cables de batería para arrancar.
+- Olor a azufre o huevo podrido cerca de la batería (signo de sobrecarga o fuga).
+- Hinchamiento visible de la carcasa.
+- Acumulación de sulfato (depósito blanco-azulado) en los bornes.
+- La luz de batería del tablero se enciende esporádicamente.
+
+## Función del alternador
+
+El alternador es un generador eléctrico acoplado al motor mediante una correa. Mientras el motor está en marcha, el alternador genera corriente alterna que se rectifica internamente a corriente continua para:
+
+1. Alimentar todos los consumos eléctricos del vehículo en marcha.
+2. Recargar la batería tras el arranque y mantener su carga durante la operación.
+
+Un alternador típico de automóvil entrega entre 60 A y 150 A de corriente, dependiendo del tamaño del vehículo y de la cantidad de accesorios eléctricos.
+
+## Cómo determinar si el alternador no está cargando correctamente
+
+Existen varios métodos para detectar fallas de carga del alternador:
+
+### Síntomas observables sin instrumentos
+
+- Luz roja con forma de batería encendida en el tablero mientras el motor funciona. Esta luz, llamada testigo de carga, indica que el sistema NO está cargando la batería correctamente.
+- Faros que se atenúan al ralentí y se intensifican al acelerar.
+- Indicadores eléctricos del tablero que parpadean o se comportan erráticamente.
+- Olor a goma quemada (correa del alternador patinando o quemándose).
+- Ruido tipo zumbido o chirrido proveniente de la zona del alternador.
+- Muerte recurrente de la batería pese a estar nueva.
+- Dificultad creciente para arrancar el vehículo en mañanas frías.
+
+### Verificación con multímetro (método confiable)
+
+1. Con el motor APAGADO, medir el voltaje en los bornes de la batería. Debe leer entre 12,4 V y 12,7 V (batería en buen estado y cargada).
+
+2. Encender el motor y dejarlo a ralentí. Medir nuevamente el voltaje en los bornes.
+   - Lectura entre 13,8 V y 14,7 V: el alternador está cargando correctamente.
+   - Lectura inferior a 13,5 V: el alternador NO está entregando suficiente carga. Posible falla.
+   - Lectura superior a 15 V: sobrecarga. El regulador del alternador puede estar dañado y eventualmente cocinará la batería.
+
+3. Encender consumos eléctricos importantes (faros altos, calefacción a máximo, luneta térmica). El voltaje no debería caer por debajo de 13,2 V. Si cae más, el alternador no entrega suficiente corriente bajo carga.
+
+4. Apagar el motor y medir nuevamente. Si tras pocos minutos el voltaje cae rápidamente por debajo de 12 V, la batería está sulfatada o agotada, independientemente del alternador.
+
+### Prueba en taller con probador de carga
+
+Los talleres usan un probador electrónico que simula carga sobre la batería y mide voltaje, amperaje de arranque (CCA) y resistencia interna. Esta prueba detecta fallas que un multímetro no muestra.
+
+## Mantenimiento preventivo
+
+- Limpiar los bornes de batería con cepillo de alambre y aplicar una fina capa de grasa dieléctrica para prevenir corrosión.
+- Verificar que los terminales estén bien apretados.
+- Mantener limpia y seca la parte superior de la batería.
+- En vehículos con uso poco frecuente, conducir al menos 30 minutos cada dos semanas para mantener carga adecuada.
+- Si el vehículo permanece sin uso por más de 2 semanas, desconectar el borne negativo o usar un mantenedor de carga.

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MecánicaBot · Asistente Automotriz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=JetBrains+Mono:wght@400;500;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="dashboard">
+        <!-- Header / cluster de instrumentos -->
+        <header class="cluster">
+            <div class="brand">
+                <div class="logo-mark">
+                    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 2 L2 7 L2 17 L12 22 L22 17 L22 7 Z" stroke="currentColor" stroke-width="1.5"/>
+                        <circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="1.5"/>
+                        <path d="M12 8 L12 12 L15 14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                    </svg>
+                </div>
+                <div class="brand-text">
+                    <h1>MECÁNICA<span>BOT</span></h1>
+                    <p class="subtitle">Asistente de mantenimiento preventivo</p>
+                </div>
+            </div>
+
+            <div class="status-panel">
+                <div class="status-item" id="status-ollama">
+                    <span class="status-dot"></span>
+                    <span class="status-label">LLM</span>
+                </div>
+                <div class="status-item" id="status-rag">
+                    <span class="status-dot"></span>
+                    <span class="status-label">RAG</span>
+                </div>
+                <div class="status-item">
+                    <span class="status-label">CHUNKS</span>
+                    <span class="status-value" id="status-chunks">--</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Área de chat -->
+        <main class="chat-area">
+            <div class="messages" id="messages">
+                <div class="welcome">
+                    <div class="welcome-badge">SISTEMA EN LÍNEA</div>
+                    <h2>Hola. ¿En qué puedo ayudarte hoy?</h2>
+                    <p>Pregúntame sobre el mantenimiento, los componentes o el funcionamiento básico de tu vehículo.</p>
+                    <div class="suggestion-chips">
+                        <button class="chip" data-query="¿Cada cuántos kilómetros se debe cambiar el aceite sintético del motor?">Cambio de aceite sintético</button>
+                        <button class="chip" data-query="¿Qué indica la luz de presión de aceite en el tablero?">Luz de presión de aceite</button>
+                        <button class="chip" data-query="¿Cómo se verifica correctamente la presión de los neumáticos?">Presión de neumáticos</button>
+                        <button class="chip" data-query="¿Cuáles son los principales síntomas de un sistema de frenos desgastado?">Frenos desgastados</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Input -->
+            <div class="input-bar">
+                <form id="chat-form">
+                    <input
+                        type="text"
+                        id="chat-input"
+                        placeholder="Escribe tu consulta sobre mecánica..."
+                        autocomplete="off"
+                        maxlength="500"
+                    >
+                    <button type="submit" id="send-btn" aria-label="Enviar">
+                        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M5 12 L19 12 M13 6 L19 12 L13 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </button>
+                </form>
+                <p class="disclaimer">
+                    Las respuestas se generan a partir del corpus técnico cargado.
+                    Para reparaciones reales, consulta siempre a un mecánico calificado.
+                </p>
+            </div>
+        </main>
+
+        <footer class="footer-strip">
+            <span>UNAB · CINF104 · Proyecto 1 Fase 2 · 2026</span>
+            <span class="model-tag" id="model-tag">llama3.1:8b</span>
+        </footer>
+    </div>
+
+    <script src="/static/chat.js"></script>
+</body>
+</html>

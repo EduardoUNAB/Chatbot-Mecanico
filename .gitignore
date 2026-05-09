@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+
+# Vector DB (regenerable con `python scripts/ingest.py`)
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+
+# Modelos descargados
+models/
+*.gguf
+*.safetensors
+
+# Archivos temporales
+*.tmp
+*.bak
