@@ -15,8 +15,8 @@ REQUEST_TIMEOUT = 120.0  # segundos
 
 
 async def chat(messages: List[Dict[str, str]],
-               temperature: float = 0.2,
-               num_predict: int = 512) -> str:
+               temperature: float = 0.15,
+               num_predict: int = 800) -> str:
     """
     Llama al modelo y devuelve la respuesta completa (no streaming).
 

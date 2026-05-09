@@ -30,8 +30,8 @@ CORPUS_DIR = ROOT / "corpus"
 DB_DIR = ROOT / "chroma_db"
 COLLECTION_NAME = "mecanica_automotriz"
 EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
-CHUNK_SIZE = 600        # caracteres aproximados por chunk
-CHUNK_OVERLAP = 100     # solapamiento entre chunks consecutivos
+CHUNK_SIZE = 900        # caracteres aproximados por chunk
+CHUNK_OVERLAP = 200     # solapamiento entre chunks consecutivos
 BATCH_SIZE = 64         # tamaño de batch para indexación
 
 
