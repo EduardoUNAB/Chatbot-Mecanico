@@ -39,7 +39,7 @@ Chatbot que responde preguntas sobre **mecánica automotriz básica y mantenimie
 
 - **Hardware**: GPU con ≥6 GB VRAM recomendado (probado en GTX 1060 6GB).
 - **Software**:
-  - Python 3.10 o superior
+  - Python Entre 3.10 y 3.12 (No usar python 3.13)
   - [Ollama](https://ollama.com/) instalado y corriendo
   - 16 GB RAM mínimo
 
