@@ -116,14 +116,15 @@ Abrir el navegador en: <http://localhost:8000>
 │   └── ingest.py           # Chunking + embeddings + ChromaDB
 ├── chroma_db/              # (generado) base vectorial
 └── docs/
-    ├── informe_pruebas.docx
-    ├── slide_dominio.md
-    └── guion_video.md
+    ├── Demo_Video.mp4
+    ├── Informe_ChatbotMecanico.pdf
+    └── preguntas_validacion.md
+
 ```
 
 ## Pruebas
 
-Las 10 preguntas oficiales de validación están en `docs/preguntas_validacion.md`. El informe completo de pruebas (con análisis de respuestas, limitaciones y mejoras) está en `docs/informe_pruebas.docx`.
+Las 10 preguntas oficiales de validación están en `docs/preguntas_validacion.md`. El informe completo de pruebas (con análisis de respuestas, limitaciones y mejoras) está en `docs/Informe_ChatbotMecanico.pdf`.
 
 ## Licencia
 
