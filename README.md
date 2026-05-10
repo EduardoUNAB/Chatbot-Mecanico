@@ -117,6 +117,7 @@ Abrir el navegador en: <http://localhost:8000>
 ├── chroma_db/              # (generado) base vectorial
 └── docs/
     ├── Demo_Video.mp4
+    ├── GRD_Informe_Avance_Final.pdf
     ├── Informe_ChatbotMecanico.pdf
     └── preguntas_validacion.md
 
